@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #FF7F50;
+}
+
+h1 {
+    text-align: center;
+    color: 	#800000;
+    text-shadow: 2px 2px 2px 	#b22222;
+    font-family: Century Gothic;
+    background: linear-gradient(68.15deg, 	#b22222 16.62%, #CD5C5C 85.61%);
+}
+
+.aula {
+    display: flex-box;
+}
+
+h2 {
+    padding-left: 20px;
+    font-family: Century Gothic;
+    font-size: 15px;
+    color: black;
+    text-align: right;
+    text-shadow: 2px 2px 2px #dc143c;
+    background: linear-gradient(68.15deg, 	#b22222 16.62%, #CD5C5C 85.61%);
+}
+
+.aula2 {
+    display: flex-box;
+    align-items: center;
+    width: 30%;
+    margin-top: 20px;
+    justify-content: space-around;
+    border-radius: 20px;
+    background-color: #A52A2A;
+    text-align: center;
+    margin-left: 250px;
+}
+
+.aula3 {
+    display: flex-box;
+    align-items: center;
+    width: 30%;
+    justify-content: space-around;
+    border-radius: 20px;
+    background-color: #A52A2A;
+    text-align: center;
+    margin-left: 250px;
+}
+
+
+sup {
+    background-color: #A52A2A;
+}
+
+.aula4 {
+    display:flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    width: 30%;
+    justify-content: space-evenly;
+    padding: 5px;
+    border-radius: 20px;
+    background-color: #A52A2A;
+    margin-left: 800px;
+    margin-bottom: 60px;
+    margin-top: -690px;
+}
+
+h4 {
+    background-color: #A52A2A;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h3 {
+    display: flexbox;
+    align-items: left;
+    margin: auto;
+    width: 30%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    justify-content: flex-start;
+    background-color: #A52A2A;
+    text-align: center;
+    border-radius: 20px;
+}
+
+
+.aula5 {
+    display: flex-box;
+    align-items: center;
+    width: 30%;
+    justify-content: space-around;
+    border-radius: 20px;
+    background-color: #A52A2A;
+    text-align: center;
+    margin-left: 800px;
+    margin-top: -40px;
+}
